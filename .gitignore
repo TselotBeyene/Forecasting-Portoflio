@@ -9,3 +9,42 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+# Python
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+# Jupyter
+.ipynb_checkpoints/
+# pyenv
+.python-version
+# Django
+*.log
+*.pot
+*.pyc
+*.sqlite3
+# Flask
+instance/
+# IPython
+profile_default/
+# PyCharm
+.idea/
+# VSCode
+.vscode/
+
+# files
+*.log
+*.csv
+*.json
+*.pickle
+*.pkl
+*.h5
+*.sqlite3
+*.db
+*.sql
+*.gz
+*.tar
+*.zip
+*.rar
+*.tar.gz
+*.tgz

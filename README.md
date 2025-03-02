@@ -2,11 +2,11 @@
 
 Time Series Forecasting for Portfolio Management Optimization
 
-Project Overview
+# Project Overview
 
 Guide Me in Finance (GMF) Investments is leveraging time series forecasting models to predict market trends, optimize asset allocation, and enhance portfolio performance. The primary goal is to help clients achieve their financial objectives by minimizing risks and capitalizing on market opportunities.
 
-Project Objectives
+# Project Objectives
 
 Extract and preprocess financial data for key assets:
 
@@ -40,7 +40,7 @@ Adjusted Close prices (accounting for dividends and splits)
 
 Volume
 
-Project Structure
+# Project Structure
 
 ├── data/
 │   ├── TSLA_historical_data.csv
@@ -67,11 +67,11 @@ Project Structure
 ├── README.md
 └── requirements.txt
 
-Installation & Setup
+# Installation & Setup
 
 Clone the repository:
 
-git clone https://github.com/your-repo/portfolio-forecasting.git
+git clone https://github.com/TselotBeyene/Forecasting-Portoflio
 cd portfolio-forecasting
 
 Create a virtual environment and install dependencies:
@@ -85,7 +85,7 @@ Run the scripts to fetch and preprocess data:
 python scripts/fetch_data.py
 python scripts/preprocess_data.py
 
-Key Tasks
+# Key Tasks
 
 Task 1: Data Preprocessing & Exploration
 
@@ -131,7 +131,7 @@ License
 
 This project is licensed under the MIT License.
 
-Contact
+# Contact
 
-For questions or collaboration, contact [Your Name] at your.email@example.com.
+For questions or collaboration, contact Tselot Beyene at tselotbeyene70@gmail.com.
 
